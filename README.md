@@ -1,6 +1,6 @@
 # 🏷️ G-Badges
 
-G-Pedia-Links is a browser extension that enhances your search experience. It adds a small `[G]` badge next to Wikipedia links on Google, Bing, DuckDuckGo, and other search engines. This badge indicates that an equivalent article exists on Grokipedia.
+G-Badges is a browser extension that enhances your search experience. It adds a small `[G]` badge next to Wikipedia links on Google, Bing, DuckDuckGo, and other search engines. This badge indicates that an equivalent article exists on Grokipedia.
 
 This extension does not redirect or modify the original Wikipedia links. It simply provides an optional, direct link to the Grokipedia alternative.
 
