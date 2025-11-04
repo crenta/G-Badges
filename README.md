@@ -1,6 +1,6 @@
-# 🏷️ Grokipedia-Links
+# 🏷️ G-Pedia-Links
 
-Grokipedia Links is a browser extension that enhances your search experience. It adds a small `[G]` badge next to Wikipedia links on Google, Bing, DuckDuckGo, and other search engines. This badge indicates that an equivalent article exists on Grokipedia.
+G-Pedia-Links is a browser extension that enhances your search experience. It adds a small `[G]` badge next to Wikipedia links on Google, Bing, DuckDuckGo, and other search engines. This badge indicates that an equivalent article exists on Grokipedia.
 
 This extension does not redirect or modify the original Wikipedia links. It simply provides an optional, direct link to the Grokipedia alternative.
 
@@ -52,7 +52,6 @@ The badge shows the real-time status of the Grokipedia link:
 ### Future Features
 
 - **[To-Do]** Implement a rich preview pop-up (a "hover card") that appears when you mouse over the `[G]` badge
-- **[BUG]** Fix a visual bug where a badge artifact can sometimes appear in the top-left corner of the screen on page load
 
 ## 🆘 Support
 
@@ -63,7 +62,7 @@ Users retain complete control:
 
 ## ⚖️ License
 
-Copyright (c) 2025 Grokipedia-Links. All Rights Reserved.
+Copyright (c) 2025 G-Pedia-Links. All Rights Reserved.
 
 THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
