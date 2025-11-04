@@ -19,6 +19,7 @@ This extension only saves two types of data on your local computer. This data ne
 2.  **A Temporary Cache:** A list of which Wikipedia pages have a counterpart, to make the extension faster and avoid re-checking every link.
 
 Here is an example of what is stored:
+
 {
   
   "gBadgePageCache": { "Main_Page": "exists" },
