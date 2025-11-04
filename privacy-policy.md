@@ -14,5 +14,6 @@ This is a **fan-made** browser extension.
 ### Local Storage Only
 {
   "grokPageCache": { "Main_Page": "exists" },
+  
   "grokBadgesEnabled": { "enabled": true }
 }
